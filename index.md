@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+---
+title: 《人间便利店》摘录
+date: 2020-05-17 23:49
+---
+#摘录欣赏一
+> 我自动地读取顾客细微的举动与视线，身体反射性地动作。耳朵和眼睛成了捕捉顾客微笑动作与意向的重要探测器。我小心翼翼地注意避免过分的观察使顾客感到不快，同时又遵循捕捉到的信息，敏捷地动起手来。
+这段话是惠子在给顾客服务时候的动作描写，生动形象地塑造了小小心翼翼地主人公，同时用“捕捉”和“探测器”将自己比作成一种机器，为后文自己对别人的模仿进行了铺垫。
+- - - - - - - - - - - - - 
+> 大家在写着"禁止进入"的栅栏里边挖了个坑，把小鸟埋了。不知是谁从垃圾箱捡了一根冰棍的木棒插在泥土之上，又供奉了一大堆花朵的尸体。
+这段话的背景是，惠子和她的同学们在小时候出去玩的时候，发现小鸟死了。被人都在为小鸟而悲伤，但惠子在想怎样做成饭给妈妈吃好吃，因此别人感到震惊。凸显了惠子小时候就与众不同，为后文的一切“反常理”行为做了伏笔。
+这段话写出了惠子对别人行为的震惊，因为他们所做的更加反常理不是吗?
+- - - - - - 
+> 要么模仿众人，要么遵从他人之事，放弃一切主动的机会。
+> 除非必要决不说话，从不做出自主的行动。看到这样的我，大人们似乎如释重负。
+> 沉默是最妥当的方法，是为了活下去最合理的处世之道。
+小时候的我们，包括长大以后现在的我们，谁又不是呢？仔细想想，我们好像都是这样的人吧。在社会中，我们有时候都在模仿着周围人，试图强迫自己融入群体之中。
+可是，这样做是好的吗?
+- - - - - 
+> 刚才还外貌各异的我们，顿时就像极了"店员"。
+> 大学生、玩乐队的男孩、自由职业者、家庭主妇、夜校的高中生，形形色色的人穿着相同的制服，被重新打造成统一规格，成为名叫"店员"的生物，这个过程有趣极了。培训结束的那天，大家都脱下了制服回到了原来的状态。就好像换了审批，变成另一种生物。
+在各种模板和框架之下，我们也许都被“格式化”了，只有当我们都离开或者逃离，才能真正的表现自我。
+- - - - - 
+> 就在那一刻，我第一次真正成为世界的零件。我感觉到自己获得了新生。一个身为世界正常零件的我，在这一天，确确实实地诞生了。
+我觉得这儿理解为当她诞生的那一刻的同时，她也失去了自我。
+- - - - - - 
+> 这儿不过是一份完美的员工手册，能让我当好一个"店员"。可是，手册之外的场合，究竟该怎样做才能当好一个普通人呢？我依然感到一头雾水。
+我想，这里仍然是该如何做好自己的困惑。我们都知道该如何做好别的角色，但是，一旦要做自己，我们毫无头绪。
+- - - - - 
+> 就是在这种互相传染的过程中，我们才能继续维持人的身份。
+坦率地讲，这里更像是对我们只有跟别人在一起的时候互相传染，才能维持社会人的那种身份；同时也对我们在社会中不能成为自己的无奈的一种讽刺。
+- - - - - 
+> 我所摄取的"世界"是随时都在交替的。就好比上次与朋友见面时身体中的那些水已经几乎不存在，换成了另一批水那样，塑造出我的成分是可都在变化。
+人们可能每时每刻都在变化，而且极容易收到环境的影响。所以惠子可能觉得所有人都会因为周围的人事物会变了模样，从而自己是不存在的。
+确实，我们每个人随着成长都会变得不再单纯，但是别忘了自己热爱的东西和当初为什么出发，才是重要的。
+- - - - - 
+> 众人面对奇怪的事物，都会无所顾忌地一脚踏入，都觉得自己有查清其中缘由的权利。而我只觉得困扰至极，骄慢又惹人生厌。有几次，我觉得实在太烦人，甚至想过像小学时那样，用铲子把对方打到停下来为止。
+这段话讽刺了那些到处八卦、吃瓜的人众。放在中国，应了那句老话：“看热闹不嫌事儿大。”好像都以为自己有权利探寻别人的秘密或者隐私。引申到娱乐圈，也可以看作讽刺那些私生饭和狗仔等。
 
-You can use the [editor on GitHub](https://github.com/LiteratusX/LiteratusX.GitHub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LiteratusX/LiteratusX.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
